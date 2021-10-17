@@ -1,7 +1,7 @@
 
 Hi,
 
-I am Shraddha, backend developer with responsbilities. I have done B. tech in Computer Science. Please find my skills below:
+I am Shraddha, backend developer with Positive Attitude, Quick Learning Abilties and Problem Solver. I have done B. tech in Computer Science. Please find my skills below:
 
 Skills:
 Languarge: Core PHP/Mysql/Javascript
@@ -17,4 +17,7 @@ Mysql/ Mongodb / Postgres
 Achievements:
 Star peroformer of the year award.
 Consistently good academic record (> 70 %)
+
+
+I have worked on Web Applications in core php/ laravel/ zend framework long term projects.
 
